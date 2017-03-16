@@ -1,3 +1,3 @@
 <?php
 
-	echo "this is a test method";
+	echo "di yi ci xiu gai";
