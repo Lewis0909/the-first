@@ -1,3 +1,3 @@
 <?php
 
-	echo "di yi ci xiu gai";
+	echo "di er ci xiu gai";
